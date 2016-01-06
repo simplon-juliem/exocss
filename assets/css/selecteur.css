@@ -1,1 +1,21 @@
-.master{}
+.master div{
+  width: 46%;
+  background-color: #98b98b;
+  float: left;
+  margin: 10px;
+}
+
+.master img{
+  width: 46%;
+  float: left;
+  padding: 10px;
+}
+
+.master p{
+  padding: 10px;
+}
+
+.master h3{
+  color: #fff;
+  text-transform: uppercase;
+}
