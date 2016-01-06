@@ -4,4 +4,10 @@
     height:100px;
     width:100px;
     border:2px solid #679403;
+    float: left;
+  	list-style-type:none;
+}
+
+.indicateur li:nth-child(4),.indicateur li:nth-child(7),.indicateur li:nth-child(12) {
+background: red;
 }
